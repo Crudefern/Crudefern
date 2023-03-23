@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheDuckBoi
 - 👀 I’m interested in: coding, electronics, linux, and more
-- 🌱 I’m currently learning: Godot/Python
+- 🌱 I’m currently learning: Godot/Go
 - 💞️ I’m looking to collaborate on: nothing currently
 - 📫 How to reach me: Email me at 8h4efied1@mozmail.com
 
