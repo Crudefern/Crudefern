@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDuckBoi
+- 👋 Hi, I’m @Crudefern
 - 👀 I’m interested in: coding, electronics, linux, and more
 - 🌱 I’m currently learning: Godot/Go
 - 💞️ I’m looking to collaborate on: nothing currently
